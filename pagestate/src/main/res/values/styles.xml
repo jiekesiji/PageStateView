@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingView">
+
+        <attr name="circleCircle" format="integer"/>
+        <attr name="pointCircle" format="integer"/>
+
+    </declare-styleable>
+    <style name="pageStateTextTipsStyle">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:layout_below">@+id/view_anchor</item>
+    </style>
+    <style name="pageStateAnchorStyle">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="img_text_margin">15dp</dimen>
+
+    <dimen name="page_state_icon">80dp</dimen>
+</resources>

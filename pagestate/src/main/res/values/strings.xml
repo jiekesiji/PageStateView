@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pagestate</string>
+    <string name="noNet">请检查网络状态</string>
+    <string name="noData">暂无数据</string>
+    <string name="error">出 错 了</string>
+    <string name="loading">加载中...</string>
+</resources>

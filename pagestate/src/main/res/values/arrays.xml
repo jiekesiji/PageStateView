@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="loadingColors">
+        <item>@color/loadingColor1</item>
+        <item>@color/loadingColor2</item>
+        <item>@color/loadingColor3</item>
+        <item>@color/loadingColor4</item>
+        <item>@color/loadingColor5</item>
+        <item>@color/loadingColor6</item>
+    </integer-array>
+
+</resources>

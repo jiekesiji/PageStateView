@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="imageColor">#cdcdcd</color>
+
+
+    <color name="loadingColor1">#22B14C</color>
+    <color name="loadingColor2">#FF0000</color>
+    <color name="loadingColor3">#004AFF</color>
+    <color name="loadingColor4">#262626</color>
+    <color name="loadingColor5">#C785C8</color>
+    <color name="loadingColor6">#00BCD4</color>
+
+</resources>
